@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/freefireold/:path*",
-      "destination": "/index.html"
+      "destination": "/jit.html"
     }
   ]
 }
