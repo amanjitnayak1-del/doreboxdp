@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/v128/PlatformLogin",
-      "destination": "/jitgame.html"
+      "destination": "/platform-login.js"
     },
     {
       "source": "/freefireold/:path*",
