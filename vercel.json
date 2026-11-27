@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/v128/PlatformLogin",
+      "destination": "/jitgame.html"
+    },
+    {
       "source": "/freefireold/:path*",
       "destination": "/jit.html"
     }
