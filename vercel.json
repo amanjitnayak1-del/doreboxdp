@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/v128/PlatformLogin",
-      "destination": "/platform-login"
+      "destination": "/api/platform-login"
     },
     {
       "source": "/freefireold/:path*",
